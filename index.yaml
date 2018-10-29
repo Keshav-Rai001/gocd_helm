@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   gocd-helm:
   - appVersion: 18.8.0
-    created: 2018-10-29T14:19:27.138775367+05:30
+    created: 2018-10-29T14:24:08.406868571+05:30
     description: GoCD is an open-source continuous delivery server to model and visualize
       complex workflows with ease.
     digest: 80b01427dd1ba96ebf970e18f536d5a1b4b443bd2843101002648b7da22bf64c
@@ -30,4 +30,4 @@ entries:
     urls:
     - https://keshav-rai001.github.io/gocd_helm/gocd-helm-1.4.3.tgz
     version: 1.4.3
-generated: 2018-10-29T14:19:27.137292848+05:30
+generated: 2018-10-29T14:24:08.405401257+05:30
